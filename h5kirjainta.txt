@@ -1,0 +1,9 @@
+#24.753# #pekka# #Mon Nov 14 23:08:19 EET 2016#
+#25.051# #pekka# #Mon Nov 14 23:12:53 EET 2016#
+#29.243# #pekka# #Mon Nov 14 23:03:12 EET 2016#
+#35.261# #pekka# #Mon Nov 14 23:06:14 EET 2016#
+#40.634# #pekka# #Mon Nov 14 23:07:46 EET 2016#
+#69.849# #pekka# #Mon Nov 14 23:18:25 EET 2016#
+#5000.0# #n n# #date#
+#10000.0# #n1 n1# #date#
+#15000.0# #m m# #date#

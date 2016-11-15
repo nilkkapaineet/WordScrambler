@@ -1,0 +1,16 @@
+#15.39# #pekka# #Mon Nov 14 22:17:48 EET 2016#
+#15.924# #pekka# #Mon Nov 14 22:45:42 EET 2016#
+#15.927# #pekka# #Mon Nov 14 23:42:00 EET 2016#
+#16.478# #pekka# #Mon Nov 14 22:49:43 EET 2016#
+#17.801# #pekka# #Mon Nov 14 23:43:32 EET 2016#
+#18.015# #pekka# #Mon Nov 14 22:44:37 EET 2016#
+#18.447# #pekka# #Mon Nov 14 23:39:14 EET 2016#
+#22.475# #pekka# #Mon Nov 14 22:34:48 EET 2016#
+#25.005# #pekka# #Mon Nov 14 23:02:02 EET 2016#
+#30.629# #pekka# #Mon Nov 14 23:42:35 EET 2016#
+#31.249# #pekka# #Tue Nov 15 13:49:25 EET 2016#
+#31.692# #pekka# #Mon Nov 14 23:43:10 EET 2016#
+#35.234# #pekka# #Mon Nov 14 22:38:34 EET 2016#
+#37.824# #pekka# #Mon Nov 14 23:45:05 EET 2016#
+#104.14# #susanna# #Mon Nov 14 22:55:39 EET 2016#
+#15000.0# #m m# #date#
